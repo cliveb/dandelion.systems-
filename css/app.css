@@ -541,25 +541,12 @@ header {
         float: left;
         margin: 0 5px; }
     /* line 230, ../sass/_styles.scss */
-    #large-nav .social-nav .facebook {
-      width: 35px;
-      height: 35px;
-      background-image: url("../img/common/facebook.png");
-      background-position: 0px -35px; }
-    /* line 231, ../sass/_styles.scss */
     #large-nav .social-nav .twitter {
       width: 35px;
       height: 35px;
       background-image: url("../img/common/twitter.png");
       background-position: 0px -35px; }
     /* line 232, ../sass/_styles.scss */
-    #large-nav .social-nav .facebook span {
-      display: block;
-      width: 35px;
-      height: 35px;
-      background-image: url("../img/common/facebook.png");
-      background-position: 0px 0px; }
-    /* line 233, ../sass/_styles.scss */
     #large-nav .social-nav .twitter span {
       display: block;
       width: 35px;
@@ -579,9 +566,6 @@ header {
   /* line 241, ../sass/_styles.scss */
   #large-nav.bg-white .main-nav-list li a:hover {
     border-color: #a3a3a3 !important; }
-  /* line 242, ../sass/_styles.scss */
-  #large-nav.bg-white .facebook {
-    background-image: url("../img/common/facebook_white.png") !important; }
   /* line 243, ../sass/_styles.scss */
   #large-nav.bg-white .twitter {
     background-image: url("../img/common/twitter_white.png") !important; }
@@ -605,16 +589,6 @@ header {
   #large-nav.bg-clear #main-nav {
     border-color: rgba(0, 0, 0, 0); }
   /* line 258, ../sass/_styles.scss */
-  #large-nav.bg-clear .facebook {
-    background-image: url("../img/common/facebook_clear.png");
-    background-position: 0 0;
-    background-repeat: none; }
-  /* line 259, ../sass/_styles.scss */
-  #large-nav.bg-clear .facebook:hover {
-    background-image: url("../img/common/facebook_clear.png");
-    background-position: 0 -35px;
-    background-repeat: none; }
-  /* line 260, ../sass/_styles.scss */
   #large-nav.bg-clear .twitter {
     background-image: url("../img/common/twitter_clear.png");
     background-position: 0 0;
@@ -625,16 +599,6 @@ header {
     background-position: 0 -35px;
     background-repeat: none; }
   /* line 262, ../sass/_styles.scss */
-  #large-nav.bg-clear .facebook span {
-    background-image: url("../img/common/facebook_clear.png");
-    background-position: 0 0;
-    background-repeat: none; }
-  /* line 263, ../sass/_styles.scss */
-  #large-nav.bg-clear .facebook span:hover {
-    background-image: url("../img/common/facebook_clear.png");
-    background-position: 0 -35px;
-    background-repeat: none; }
-  /* line 264, ../sass/_styles.scss */
   #large-nav.bg-clear .twitter span {
     background-image: url("../img/common/twitter_clear.png");
     background-position: 0 0;
