@@ -484,7 +484,7 @@ header {
       margin: 0 auto; }
     /* line 200, ../sass/_styles.scss */
     #large-nav #main-nav .main-nav-list {
-      min-width: 400px;
+      min-width: 160px;
       list-style: none;
       padding-top: 34px;
       margin: 0; }
