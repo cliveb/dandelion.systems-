@@ -570,9 +570,6 @@ header {
   #large-nav.bg-white .twitter {
     background-image: url("../img/common/twitter_white.png") !important; }
   /* line 244, ../sass/_styles.scss */
-  #large-nav.bg-white .facebook span {
-    background-image: url("../img/common/facebook_white.png") !important; }
-  /* line 245, ../sass/_styles.scss */
   #large-nav.bg-white .twitter span {
     background-image: url("../img/common/twitter_white.png") !important; }
   /* line 248, ../sass/_styles.scss */
@@ -2729,13 +2726,6 @@ footer {
     background-image: url("../img/common/logo-wb@2x.png");
     background-size: 52px 52px; }
   /* line 16, ../sass/_retina.scss */
-  #large-nav .social-nav .facebook {
-    width: 35px;
-    height: 35px;
-    background-image: url("../img/common/facebook@2x.png");
-    background-position: 0px -35px;
-    background-size: 35px 70px; }
-  /* line 17, ../sass/_retina.scss */
   #large-nav .social-nav .twitter {
     width: 35px;
     height: 35px;
@@ -2743,14 +2733,6 @@ footer {
     background-position: 0px -35px;
     background-size: 35px 70px; }
   /* line 18, ../sass/_retina.scss */
-  #large-nav .social-nav .facebook span {
-    display: block;
-    width: 35px;
-    height: 35px;
-    background-image: url("../img/common/facebook@2x.png");
-    background-position: 0px 0px;
-    background-size: 35px 70px; }
-  /* line 19, ../sass/_retina.scss */
   #large-nav .social-nav .twitter span {
     display: block;
     width: 35px;
@@ -2764,32 +2746,15 @@ footer {
     background-image: url("../img/common/logo-color@2x.png") !important;
     background-size: 52px 52px; }
   /* line 26, ../sass/_retina.scss */
-  #large-nav.bg-white .facebook {
-    background-image: url("../img/common/facebook_white@2x.png") !important; }
-  /* line 27, ../sass/_retina.scss */
   #large-nav.bg-white .twitter {
     background-image: url("../img/common/twitter_white@2x.png") !important; }
   /* line 28, ../sass/_retina.scss */
-  #large-nav.bg-white .facebook span {
-    background-image: url("../img/common/facebook_white@2x.png") !important; }
-  /* line 29, ../sass/_retina.scss */
   #large-nav.bg-white .twitter span {
     background-image: url("../img/common/twitter_white@2x.png") !important; }
   /* line 32, ../sass/_retina.scss */
   #large-nav.bg-white #main-nav .main-nav-list li a:hover {
     border-bottom: 1px #000 solid !important; }
-
   /* line 38, ../sass/_retina.scss */
-  #large-nav.bg-clear .facebook {
-    background-image: url("../img/common/facebook_clear@2x.png");
-    background-position: 0 0;
-    background-repeat: none; }
-  /* line 39, ../sass/_retina.scss */
-  #large-nav.bg-clear .facebook:hover {
-    background-image: url("../img/common/facebook_clear@2x.png");
-    background-position: 0 -35px;
-    background-repeat: none; }
-  /* line 40, ../sass/_retina.scss */
   #large-nav.bg-clear .twitter {
     background-image: url("../img/common/twitter_clear@2x.png");
     background-position: 0 0;
@@ -2800,16 +2765,6 @@ footer {
     background-position: 0 -35px;
     background-repeat: none; }
   /* line 42, ../sass/_retina.scss */
-  #large-nav.bg-clear .facebook span {
-    background-image: url("../img/common/facebook_clear@2x.png");
-    background-position: 0 0;
-    background-repeat: none; }
-  /* line 43, ../sass/_retina.scss */
-  #large-nav.bg-clear .facebook span:hover {
-    background-image: url("../img/common/facebook_clear@2x.png");
-    background-position: 0 -35px;
-    background-repeat: none; }
-  /* line 44, ../sass/_retina.scss */
   #large-nav.bg-clear .twitter span {
     background-image: url("../img/common/twitter_clear@2x.png");
     background-position: 0 0;
